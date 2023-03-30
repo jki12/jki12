@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### http://mazassumnida.wtf/api/v2/generate_badge?boj=gro0t1
+### <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gro0t1" />
 
 <!--
 **jki12/jki12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
