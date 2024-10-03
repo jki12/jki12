@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)](#)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom%20to%20my%20Github!)](#)
 
 <h3 align="center">🛠 기술스택 </h3>
 <hr>
