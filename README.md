@@ -1,18 +1,20 @@
-### Hi there 👋
+[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)](#)
 
-### <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gro0t1" />
+<h3 align="center">🛠 기술스택 </h3>
+<hr>
 
-<!--
-**jki12/jki12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,obsidian,linux" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🛠 Stats </h3>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jki12&show_icons=true&theme=light)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gro0t1)](https://solved.ac/gro0t1/)
